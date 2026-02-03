@@ -2,7 +2,7 @@
 
 body {
   font-family: "Mali", sans-serif;
-  background-color: #f8f8f8;
+  background-image: url("heart-bg.jpg");
   margin: 0;
   display: flex;
   justify-content: center;
